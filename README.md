@@ -2,7 +2,7 @@
 
 **Python/Django developer building practical web tools** · Naivasha, Kenya
 
-I'm a BSc Information Technology graduate (Taita Taveta University, 2026) who likes turning real problems into working software. I currently intern at **Centy**, where I do user-acceptance testing on HR modules (Recruitment, Appraisals, Learning) in an ERP.
+I'm a BSc Information Technology graduate who likes turning real problems into working software. I currently work at **Centy**, where I do user-acceptance testing and User stories while helping develop on HR modules (Recruitment, Appraisals, Learning) in an ERP.
 
 ### 🔭 Featured project
 **[Career Pathway Analysis System](https://github.com/MichaelGathigi/career_pathway_system)**: a Django web app that recommends career clusters to Kenyan students by combining KCSE grades (60%) with a RIASEC interest quiz (40%), adjusted for labour-market saturation. Includes a student dashboard, Chart.js results and downloadable PDF reports.
