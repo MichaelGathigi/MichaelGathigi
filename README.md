@@ -21,14 +21,13 @@ I'm a BSc Information Technology graduate (Taita Taveta University, 2026) who li
 ### 📜 Certifications
 - Cisco: Introduction to Cybersecurity
 - Fortinet: Fundamentals of Cybersecurity
-- CISCA: Information Security Auditing
 - Anthropic: Agent Skills
 
 ### 💼 Experience
-- **Intern, Centy (Centypay Ltd)**: Sep 2026 – present
-- **ICT Industrial Attachment, Nakuru Training Institute**
+- **Developer Centy (Centypay Ltd)**: Sep 2026 – present
+- **ICT Trainer, Nakuru Training Institute**
 
 ### 🤝 Open to
-Software development, IT trainer and AI-related roles, especially with SaaS startups and county governments.
+Software development,AI-related roles, especially with SaaS and county governments.
 
 📫 **Reach me:** mikegathigiw@gmail.com
